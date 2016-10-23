@@ -8,7 +8,7 @@
 
 <p>What we want to do now is open the browser, navigate to W3Schools and maximize the browser... before closing it again.</p>
 
-<p>The code we had before was:<p>
+<p>The code we had before was:</p>
 
 ```
 package SeleniumBasics;
