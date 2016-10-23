@@ -35,7 +35,7 @@ driver.close();
 
 <p>The final code looks like this:</p>
 
-'''
+```
 package SeleniumBasics;
 
 import org.openqa.selenium.WebDriver;
