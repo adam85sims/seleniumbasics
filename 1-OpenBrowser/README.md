@@ -44,7 +44,7 @@ public class OpenBrowser {
     public static void main(String[] args) {
         // TODO Auto-generated method stub
 ```
-<p>Ok, cool. If you didn't tick the box demanding that Eclipse put this in for you - you need to put it in yourself. This is the start of your code block. Without that, you are nothing. <b>NOTHING!</b> Your friends will point and laugh at you and you will no longer be able to maintain an erection.</p>
+<p>Ok, cool. If you didn't tick the box demanding that Eclipse put this in for you - you need to put it in yourself. This is the start of your method. Without that, you are nothing. <b>NOTHING!</b> Your friends will point and laugh at you and you will no longer be able to maintain an erection.</p>
 
 ```
         WebDriver driver = new FirefoxDriver();
